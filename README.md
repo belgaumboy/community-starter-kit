@@ -1,10 +1,12 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+This is demo description of this open-source project written by user bb during his tutorial journey.
 
 ## What it does
 
-FEATURES PLACEHOLDER
+- it helps user to maintain the code [added by bb]
+- it allows user to commit on any changes [added by bb]
+- above two points are added for demo purpose [added by bb]
 
 ## Getting started
 
