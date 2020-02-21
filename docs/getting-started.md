@@ -35,4 +35,4 @@ firstPRMergeComment: >
 
 ### Example Messages
 
-CONFIGS PLACEHOLDER
+this is config placeholder content and added by bb for demo purpose while doing his online tutorial.
